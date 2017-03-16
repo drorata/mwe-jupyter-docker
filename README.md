@@ -19,7 +19,7 @@ At this point, you can run the local image:
 docker run -p 8888:8888 mwe-jupyter-docker
 ```
 
-If you want to try out this image without cloning this repository, you should be able to pull it from [https://hub.docker.com/r/drorata/mwe-jupyter-docker/](Docker hub).
+If you want to try out this image without cloning this repository, you should be able to pull it from [Docker hub](https://hub.docker.com/r/drorata/mwe-jupyter-docker/).
 
 # The files:
 
