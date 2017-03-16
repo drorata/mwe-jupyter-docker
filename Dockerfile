@@ -1,5 +1,5 @@
 # Based on the minimal notebook
-FROM jupyter/minimal-notebook
+FROM jupyter/base-notebook
 
 # Installing modules that will be used in the notebooks
 RUN conda install --quiet --yes pandas numpy matplotlib scikit-learn
