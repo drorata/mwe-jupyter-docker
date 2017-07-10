@@ -1,6 +1,6 @@
 # Motivation
 
-[Reproducible research](reproducible research data science) is, in my opinion, an important aspect of data science work and should be exercised as much as possible.
+[Reproducible research](http://drorata.github.io/posts/2017/Mar/16/pillars-of-reproducible-data-science-work/) is, in my opinion, an important aspect of data science work and should be exercised as much as possible.
 As part of this effort, I started to explore Docker which allows the creation of an image which bundles both the code of the analysis and the data to be crunched.
 In this repository I outline the most basic way to achieve this.
 
